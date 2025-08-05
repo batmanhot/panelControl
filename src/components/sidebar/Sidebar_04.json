@@ -1,0 +1,24 @@
+{
+  "OpcionesMenu": [
+    { "id": 1,  "name": "Dashboard", "icon": "FaBorderAll", "link": "#" },
+    { "id": 2,  "name": "Pedidos de Clientes Nocturnos", "icon": "FaBorderAll", "link": "#" },
+    { "id": 3,  "name": "Productos", "icon": "FaProductHunt", "link": "#" },
+    { "id": 4,  "name": "Informes", "icon": "FaTh", "link": "#" },
+    { "id": 5,  "name": "Configuración", "icon": "FaCog", "link": "#" },
+    { "id": 6,  "name": "Salir", "icon": "FaSignOutAlt", "link": "#" },
+    { "id": 7,  "name": "Mensajes", "icon": "FaEnvelope", "link": "#" },
+    { "id": 8,  "name": "Buscar", "icon": "FaSearch", "link": "#" },
+    { "id": 9,  "name": "Perfil", "icon": "FaUserCircle", "link": "#" },
+    { "id": 10, "name": "Notificaciones", "icon": "FaBell", "link": "#" },
+    { "id": 11, "name": "Expandir", "icon": "FaExpand", "link": "https://www.google.com" },    
+    { "id": 12, "name": "Widgets", "icon": "FaTh", "link": "https://www.wikipedia.org/wiki/Widget"},
+    { "id": 13, "name": "Buscar", "icon": "FaSearch", "link": "#" },
+    { "id": 14, "name": "Perfil", "icon": "FaUserCircle", "link": "#" },
+    { "id": 15, "name": "Notificaciones", "icon": "FaBell", "link": "#" },
+    { "id": 16, "name": "Expandir", "icon": "FaExpand", "link": "https://www.google.com" },    
+    { "id": 17, "name": "Widgets", "icon": "FaTh", "link": "https://www.wikipedia.org/wiki/Widget"},
+    { "id": 18, "name": "Notificaciones", "icon": "FaBell", "link": "#" },
+    { "id": 19, "name": "Expandir", "icon": "FaExpand", "link": "https://www.google.com" },    
+    { "id": 20, "name": "Widgets", "icon": "FaTh", "link": "https://www.wikipedia.org/wiki/Widget"}
+  ]
+}
